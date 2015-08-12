@@ -1,0 +1,24 @@
+# Those are just ideas
+# Just add as many as you want and we can filter later
+---
+# Sleeping spots, called Hotels but can be houses, and whatever else
+# allows for sleeping, bathrooming, etc.
+Hotels:
+     - name:  Hotel Monaco
+       url:  http://www.monaco-portland.com/
+       address: 506 S.W. Washington Street Portland, OR 97204
+     - name: Hotel Modera
+       url: http://www.hotelmodera.com/
+       address: 515 SW Clay Street, Portland, Oregon 97201
+     - name: Hotel Jupiter
+       url: http://jupiterhotel.com/
+       address: 800 E. Burnside Street, Portland OR 97214
+# Anything other than Entertainment (if you find any)
+Activities:
+# Pure fun
+Entertainment:
+# People need to eat - restaurants, pubs, food trucks, etc.
+Food:
+  - name: Pok Pok
+    url: http://www.yelp.com/biz/pok-pok-portland
+    address: 3226 SE Division St Portland, OR 97202
